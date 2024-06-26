@@ -20,8 +20,6 @@ end
 
 gem 'html-proofer'
 
-gem "github-pages"
-
 
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
