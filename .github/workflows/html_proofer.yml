@@ -1,9 +1,8 @@
 name: HTML Proofer
 
 on:
-  push:
-    branches:
-      - master
+  schedule:
+    - cron: '30 5 * * *' # Esto ejecutará el flujo de trabajo todos los días a las 12:30 AM UTC
 
 jobs:
   build:
