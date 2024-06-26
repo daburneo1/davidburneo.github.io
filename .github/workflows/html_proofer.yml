@@ -17,8 +17,6 @@ jobs:
         with:
           ruby-version: 2.7
       - name: Install dependencies
-        env:
-          PAT_TOKEN: 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
         run: |
           gem install bundler
           bundle install --jobs 4 --retry 3
