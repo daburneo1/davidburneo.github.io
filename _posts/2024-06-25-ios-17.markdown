@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Notas de la versión de iOS 17"
+date: 2023-09-18
+categories: [iOS, iOS 17]
+---
+
+# Notas de la versión de iOS 17
+
+![iOS 17](https://www.lavanguardia.com/andro4all/hero/2023/08/ios-17-portada-post-completo.jpg?width=1200)
+
+## Fecha de lanzamiento
+18 de septiembre de 2023
+
+## Características clave
+- Nuevas herramientas de comunicación en FaceTime y Mensajes
+- Mejoras en la inteligencia de Siri
+- Nuevas opciones de personalización en la pantalla de inicio
+- Mejoras en la privacidad y seguridad
+- Actualizaciones en Salud y Bienestar
+
+## Correcciones de errores y mejoras
+- Varias mejoras de rendimiento
+- Correcciones de errores para estabilidad

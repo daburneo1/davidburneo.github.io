@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Notas de la versión de iOS 13"
+date: 2019-09-19
+categories: [iOS, iOS 13]
+---
+
+# Notas de la versión de iOS 13
+
+![iOS 13](https://www.lavanguardia.com/andro4all/hero/2019/09/ios-13-d.jpg?width=768&aspect_ratio=16:9&format=nowebp)
+
+## Fecha de lanzamiento
+19 de septiembre de 2019
+
+## Características clave
+- Modo oscuro
+- Fotos y cámara rediseñadas
+- Sign in with Apple
+- Mapas rediseñados
+- Rendimiento mejorado
+- Nuevas herramientas de edición de fotos y videos
+- Mejoras en privacidad y seguridad
+- Actualizaciones en la aplicación Recordatorios
+
+## Correcciones de errores y mejoras
+- Varias mejoras de rendimiento
+- Correcciones de errores para estabilidad

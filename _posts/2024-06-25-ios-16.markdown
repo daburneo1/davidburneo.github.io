@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Notas de la versión de iOS 16"
+date: 2022-09-12
+categories: [iOS, iOS 16]
+---
+
+# Notas de la versión de iOS 16
+
+![iOS 16](https://depor.com/resizer/PBEUWfCHh44kWsEPwqbFYJ6dGoI=/580x330/smart/filters:format(jpeg):quality(90)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YECDZOMFVFH2HFOZBMIHF5TA2E.jpg)
+
+## Fecha de lanzamiento
+12 de septiembre de 2022
+
+## Características clave
+- Personalización de la pantalla de bloqueo
+- Nueva biblioteca de fotos compartida
+- Mejoras en Mensajes
+- Nuevas opciones de Salud y Fitness
+- Actualizaciones de seguridad mejoradas
+- Mejoras en CarPlay
+
+## Correcciones de errores y mejoras
+- Varias mejoras de rendimiento
+- Correcciones de errores para estabilidad

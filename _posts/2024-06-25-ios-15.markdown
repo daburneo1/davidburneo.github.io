@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Notas de la versión de iOS 15"
+date: 2021-09-20
+categories: [iOS, iOS 15]
+---
+
+# Notas de la versión de iOS 15
+
+![iOS 15](https://i.blogs.es/2761b8/ios-15-apple-portada/1366_2000.jpg)
+
+## Fecha de lanzamiento
+20 de septiembre de 2021
+
+## Características clave
+- Enfoque para minimizar distracciones
+- Mejoras en FaceTime
+- Texto en vivo
+- Mejoras en Notificaciones
+- Nuevas funciones en Safari
+- Mapas rediseñados
+- Nuevas experiencias de Wallet
+
+## Correcciones de errores y mejoras
+- Varias mejoras de rendimiento
+- Correcciones de errores para estabilidad

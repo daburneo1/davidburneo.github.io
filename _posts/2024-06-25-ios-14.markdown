@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Notas de la versión de iOS 14"
+date: 2020-09-16
+categories: [iOS, iOS 14]
+---
+
+# Notas de la versión de iOS 14
+
+![iOS 14](https://i.blogs.es/739947/e2bf9357-cb7a-4769-9149-0b1b83a121b5/840_560.jpeg)
+
+## Fecha de lanzamiento
+16 de septiembre de 2020
+
+## Características clave
+- Biblioteca de aplicaciones
+- Widgets en la pantalla de inicio
+- Imagen en imagen
+- Clips de aplicaciones
+- Mejora de la privacidad
+- Mejoras en Mensajes
+- Mejoras en Mapas
+- Actualizaciones de CarPlay
+
+## Correcciones de errores y mejoras
+- Varias mejoras de rendimiento
+- Correcciones de errores para estabilidad
